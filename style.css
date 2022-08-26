@@ -1,0 +1,174 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar-container>div:nth-child(1) img {
+    float: left;
+    width: 7%;
+    margin-top: 38px;
+    margin-left: 56px;
+    margin-right: 17%;
+
+}
+
+.navbar-container ul {
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+}
+
+.navbar-container li {
+    float: left;
+    list-style: none;
+    margin: 43px 24px;
+    font-size: 21px;
+    color: #726666;
+}
+
+.list .list-item:nth-child(1) {
+    color: black;
+    border-bottom: 2px solid;
+}
+
+/* .logo {
+    float: left;
+    width: 420px;
+    margin-top: 11px;
+} */
+
+.button-group {
+    float: right;
+    margin-top: 13px;
+    margin-right: 20px;
+}
+
+/* form {
+    margin: auto;
+} */
+
+/* .example svg {
+    width: 10%;
+} */
+.search-icon svg {
+    float: right;
+    width: 16%;
+    margin-right: 148%;
+    margin-top: -85px;
+}
+
+.nav-button {
+    float: right;
+    margin-bottom: 10px;
+    height: 35px;
+    width: 140px;
+    border-radius: 10px;
+    margin-top: -86px;
+    margin-right: 40%;
+}
+
+.hero-container {
+    margin-top: 25px;
+}
+
+.hero-container>div:nth-child(4) img {
+    position: absolute;
+    top: 182px;
+    height: 387px;
+    width: 326px;
+    left: 80px;
+}
+
+.square img {
+    position: absolute;
+    top: 320px;
+    height: 300px;
+    width: 277px;
+    left: 180px;
+}
+
+.logo img {
+    width: 25%;
+}
+
+.hero-container-right {
+    position: absolute;
+    left: 40%;
+}
+
+.hero-heading {
+    font-size: 73px;
+    width: 100%;
+    margin-top: 97px;
+}
+
+.hero-description {
+    text-align: center;
+    width: 58%;
+    font-size: 14px;
+    margin-left: 114px;
+    color: rgb(123, 120, 120);
+    margin-top: 42px;
+}
+
+.button-email {
+    margin-left: 224px;
+    margin-top: 91px;
+    border-radius: 8px;
+    /* padding: 5px 13px; */
+    font-size: 16px;
+    width: 18%;
+}
+
+.button-join {
+    border-radius: 8px;
+    /* padding: 20px; */
+    background-color: black;
+    color: aliceblue;
+    font-size: 16px;
+    margin-left: 10px;
+}
+
+.hero-container-right>div:nth-child(4) {
+    margin-left: 84px;
+}
+
+.contact-heading {
+    margin-left: 33%;
+    top: 50%;
+    color: rgb(123, 120, 120);
+    margin-top: 70px;
+    margin-bottom: 14px;
+    font-size: 17px;
+}
+
+.icons {
+    margin-left: 28%;
+
+}
+
+.icons img {
+    width: 5%;
+    margin-left: 7px;
+}
+
+.globe {
+    position: absolute;
+    left: 49%;
+    margin-top: -8px;
+}
+
+.globe img {
+    width: 60%
+}
+
+.star {
+    position: absolute;
+    left: 89%;
+    margin-top: 43px;
+}
+
+.star img {
+    width: 50%;
+}
