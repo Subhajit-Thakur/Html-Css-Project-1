@@ -3,7 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 .navbar-container>div:nth-child(1) img {
     float: left;
     width: 7%;
@@ -145,7 +144,6 @@
 
 .icons {
     margin-left: 28%;
-
 }
 
 .icons img {
